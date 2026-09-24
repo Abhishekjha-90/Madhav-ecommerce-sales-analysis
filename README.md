@@ -3,7 +3,7 @@
 This project delivers an interactive e-commerce sales and profitability dashboard built in **Power BI** for **Madhav Store**. The primary objective is to track, analyze, and visualize online sales performance across India to help stakeholders understand revenue, profit trends, and customer buying behavior.
 
 ## Dashboard Preview
-![Madhav E-commerce Dashboard](Dashboard/Screenshot (88).png)
+![Madhav E-commerce Dashboard](Dashboard/Screenshot%20\(88\).png)
 
 ## Data Architecture & Structure
 The project utilizes raw data sourced from Excel and structured across two primary relational tables linked via **Order ID**:
